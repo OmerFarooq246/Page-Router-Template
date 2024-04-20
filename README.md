@@ -1,4 +1,4 @@
-<h4>Features</h4>
+<h4>Template Features</h4>
 <ol>
   <li>Login</li>
   <li>SignUp</li>
