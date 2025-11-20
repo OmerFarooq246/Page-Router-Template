@@ -12,6 +12,7 @@ To set up the project locally, follow these steps:
     git clone https://github.com/your-username/Page-Router-Template.git
     cd Page-Router-Template
     ```
+    note: The repository must be made from this template.
 
 2.  **Install dependencies:**
 
